@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 14 Pro Max,1789799504981,2026-09-19_06-31-44,Europe/Amsterdam,ios,1.65,6e2af2ab-5cc3-4430-8b96-16c94979cea7,Accelerometer|Gravity|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10||10|10,true,26.6.2
